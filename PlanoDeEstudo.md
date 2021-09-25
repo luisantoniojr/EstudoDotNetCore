@@ -1,4 +1,4 @@
-Back-End
+# Back-End
     AspNet Core
     Clean Code
     SOLID
@@ -6,11 +6,11 @@ Back-End
     TDD
     BDD
 
-Front-End
+# Front-End
     Angular
     ReactJs
-    React Native
-
-Devops
+    ReactNative
+    
+# Devops
     Docker
     Azure
