@@ -3,16 +3,19 @@
 ## Padrão MVC
 
 ## Controllers
+
   Rotas
   Action Results
   Verbos HTTP
   Implementando rotas inteligentes
-  
+
 ## Models
+
   DataAnnotations
-  Validação de Modelos
-  
+  Validação de Modelos 
+
 ## Views
+
   Razor
   TagHelpers
   Custom Tag Helpers
@@ -24,14 +27,17 @@
   Ganhe tempo, utilize Scaffold
 
 ## Areas
+
   Como funcionam?
 
 ## Injeção de Dependência
+
   Configurando uma injeção de dependência
   Injetando dependências no MVC
   Tipos de Ciclo de Vida - DI LifeCycle
 
 ## Entity Framework Core
+
   Instalando o EF Core
   Configurando o DbContext
   Operações CRUD
@@ -39,6 +45,7 @@
   Seeds
 
 ## Segurança com ASP.NET Identity
+
   Apresentação
   Configuração
   Autenticação
@@ -47,6 +54,7 @@
   Customizando a autenticação da App
 
 ## Configurações
+
   Trabalhando na classe Startup.cs
   Ambientes de execução
   Protegendo dados com User Secrets
@@ -56,6 +64,7 @@
   Trabalhando com Filtros
 
 ## Primeira App MVC Core completa
+
   Criando um projeto MVC sem template
   Setup da aplicação
   Mapeando as entidades para o banco de dados
@@ -78,10 +87,12 @@
   Evitando falhas de segurança
 
 ## Deploy da Aplicação
+
   Realizando o deploy no IIS Local
   Rodando a APP em SelfHosting
   Realizando o deploy no Azure
 
 ## Front-End
+
   Ferramentas de Front-End
   Bundling & Minification
