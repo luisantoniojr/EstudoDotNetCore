@@ -1,18 +1,18 @@
-Planejamento estudo AspNet Core
+# Planejamento estudo AspNet Core
 
-# Padrão MVC
+## Padrão MVC
 
-# Controllers
+## Controllers
   Rotas
   Action Results
   Verbos HTTP
   Implementando rotas inteligentes
-
-# Models
+  
+## Models
   DataAnnotations
   Validação de Modelos
-
-# Views
+  
+## Views
   Razor
   TagHelpers
   Custom Tag Helpers
@@ -20,25 +20,25 @@ Planejamento estudo AspNet Core
   Partial Views
   View Components
   Formulários
-  Validações de Formulário
+  Validações de Formulário  
   Ganhe tempo, utilize Scaffold
   
-# Areas
+## Areas
   Como funcionam?
 
-# Injeção de Dependência
+## Injeção de Dependência
   Configurando uma injeção de dependência
   Injetando dependências no MVC
   Tipos de Ciclo de Vida - DI LifeCycle
 
-# Entity Framework Core
+## Entity Framework Core
   Instalando o EF Core
   Configurando o DbContext
   Operações CRUD
   Migrations
   Seeds
 
-# Segurança com ASP.NET Identity
+## Segurança com ASP.NET Identity
   Apresentação
   Configuração
   Autenticação
@@ -46,7 +46,7 @@ Planejamento estudo AspNet Core
   Trabalhando com Claims
   Customizando a autenticação da App
 
-# Configurações
+## Configurações
   Trabalhando na classe Startup.cs
   Ambientes de execução
   Protegendo dados com User Secrets
@@ -55,7 +55,7 @@ Planejamento estudo AspNet Core
   Log
   Trabalhando com Filtros
 
-# Primeira App MVC Core completa
+## Primeira App MVC Core completa
   Criando um projeto MVC sem template
   Setup da aplicação
   Mapeando as entidades para o banco de dados
@@ -77,11 +77,11 @@ Planejamento estudo AspNet Core
   Tratamento de erros
   Evitando falhas de segurança
 
-# Deploy da Aplicação
+## Deploy da Aplicação
   Realizando o deploy no IIS Local
   Rodando a APP em SelfHosting
   Realizando o deploy no Azure
 
-# Front-End
+## Front-End
   Ferramentas de Front-End
   Bundling & Minification
