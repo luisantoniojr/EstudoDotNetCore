@@ -20,9 +20,9 @@
   Partial Views
   View Components
   Formulários
-  Validações de Formulário  
+  Validações de Formulário
   Ganhe tempo, utilize Scaffold
-  
+
 ## Areas
   Como funcionam?
 
@@ -51,7 +51,7 @@
   Ambientes de execução
   Protegendo dados com User Secrets
   Teste de conhecimentos - Segurança
-  Tratamento de erros 
+  Tratamento de erros
   Log
   Trabalhando com Filtros
 
