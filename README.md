@@ -1,2 +1,2 @@
 # EstudoDotNetCore
-Plano de estudo para dot net core
+Plano de estudo para Dot Net Core
