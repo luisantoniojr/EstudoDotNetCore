@@ -1,4 +1,4 @@
-# Planejamento estudo AspNet Core
+# Planejamento AspNet Core
 
 ## Padrão MVC
 
@@ -63,7 +63,7 @@
   Log
   Trabalhando com Filtros
 
-## Primeira App MVC Core completa
+## Primeira App MVC Core
 
   Criando um projeto MVC sem template
   Setup da aplicação
